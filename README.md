@@ -1,4 +1,4 @@
-## EggCatcherGame
+# EggCatcherGame
 EggCatcherGame is a fun and interactive game built using Python and the Tkinter library. The objective of the game is to catch falling eggs using a catcher. The game ends when the player runs out of lives. As the game progresses, the speed and frequency of the falling eggs increase, making the game more challenging.
 
 # Features
